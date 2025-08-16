@@ -2,7 +2,7 @@
 
 Com o propósito de criar gráficos para identificarmos qual loja o Senhor João deve vender para seus investimentos.
 
-Através dos gráficos puxamos alguns pontos importantes para chegarmos ao nosso objetivo:
+Através dos gráficos puxamos alguns pontos importantes para chegarmos ao nosso objetivo, são eles:
 
 **Faturamento por Loja**
 
